@@ -16,7 +16,7 @@
 
 ## **Struktur Project**
 ```
-/dynamic-product-showcase
+
 │── /public
 │   ├── index.html     
 │   ├── style.css       
@@ -27,7 +27,7 @@
 │── README.md           
 ```
 
-## **Running the Project**
+## **Jalanin Project**
 1. Start the server:
    ```sh
    node server/server.js

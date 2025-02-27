@@ -20,9 +20,8 @@
 │── /public
 │   ├── index.html     
 │   ├── style.css       
-│   ├── script.js      
-│── /server
-│   ├── server.js       
+│   ├── script.js
+├── server.js       
 │── package.json        
 │── README.md           
 ```
@@ -30,7 +29,7 @@
 ## **Jalanin Project**
 1. Start the server:
    ```sh
-   node server/server.js
+   node server.js
    ```
 2. Open your browser and go to:
    ```
